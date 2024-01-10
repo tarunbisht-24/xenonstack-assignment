@@ -99,3 +99,10 @@ Options:
 
 --------------------
     ./internsctl file getinfo --last-modified <file-name>
+
+
+![Screenshot from 2024-01-10 15-29-48](https://github.com/tarunbisht-24/xenonstack-assignment/assets/77788209/6cad3b7a-08c1-4b9c-921c-413d1f926c63)
+![Screenshot from 2024-01-10 15-27-41](https://github.com/tarunbisht-24/xenonstack-assignment/assets/77788209/2adf86b5-39ff-488a-87fb-c52de870761a)
+![Screenshot from 2024-01-10 15-32-32](https://github.com/tarunbisht-24/xenonstack-assignment/assets/77788209/61019f8f-c157-450f-af21-428271ae1000)
+![Screenshot from 2024-01-10 15-30-08](https://github.com/tarunbisht-24/xenonstack-assignment/assets/77788209/12f01db2-488b-4d7b-9e52-bd89fb8a63f5)
+![Screenshot from 2024-01-10 15-29-56](https://github.com/tarunbisht-24/xenonstack-assignment/assets/77788209/07c59e58-b344-40ae-8825-de33bb15f31b)
