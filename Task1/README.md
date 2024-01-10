@@ -1,5 +1,11 @@
 Certainly! The internsctl command I've created supports various tasks based on the specified commands in Section A and Section B. Here's a summary of the tasks you can perform:
 
+Make sure the script is executable by running:
+
+--------------------
+       chmod +x internsctl
+
+
 Section A: Command Basics
 
 1) Manual Page:
