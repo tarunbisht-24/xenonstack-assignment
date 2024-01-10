@@ -1,6 +1,6 @@
 # Your Website
 
-This is a simple website with a responsive design, login/logout functionality, and a contact form.
+This is a simple travel website with a responsive design, login/logout functionality and a contact form.
 
 ## Features
 
@@ -13,26 +13,24 @@ This is a simple website with a responsive design, login/logout functionality, a
 
 - Frontend: HTML, CSS, JavaScript
 - Backend: Node.js, Express
-- Database: SQLite
+- Database: MongoDB
 
 ## How to Run
 
-1. Clone the repository.
-2. Install dependencies: `npm install`.
-3. Run the server: `node server.js`.
-4. Open your browser and navigate to [http://localhost:3000](http://localhost:3000).
+1. Clone the repository `git clone https://github.com/tarunbisht-24/xenonstack-assignment/`.
+2. `cd` into the Task2 Folder.
+3. Run `index.html`.
 
 ## Hosting
 
-The website is hosted on [Heroku](https://www.heroku.com/). You can also host it on other cloud services like AWS, Google Cloud, or your preferred platform.
+The website is hosted on [Netlify](https://www.netlify.com/). You can also host it on other cloud services like AWS, Google Cloud, or your preferred platform.
 
 ## Database
 
-The project uses SQLite for simplicity. In a production environment, consider using a more robust database like PostgreSQL, MySQL, or MongoDB.
+The project uses MongoDB for simplicity. Consider using a more robust database like PostgreSQL, MySQL, or MongoDB in a production environment.
 
 ## Contributors
 
-- Your Name
-- Any other contributors
+Made by Tarun Bisht
 
 Feel free to contribute or provide feedback!
